@@ -1,0 +1,2 @@
+# RingGUI.cmd хранится как есть (CRLF, UTF-8 без BOM) — иначе гибрид cmd+PowerShell ломается
+*.cmd -text
